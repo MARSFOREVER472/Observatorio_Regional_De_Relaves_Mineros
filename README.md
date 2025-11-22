@@ -2,4 +2,4 @@
 
 ## **_Innovación para la Economía Circular y la Sostenibilidad en la Región de Antofagasta (Nueva Versión)._**
 
-### **_En Instantes..._**
+### **_Algo relacionado con otra cosa..._**
