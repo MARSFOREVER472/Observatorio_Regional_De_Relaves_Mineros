@@ -10,4 +10,4 @@
 
 ◉ **_Esto complementa varios ejes temáticos tales como Investigación Aplicada, Formación Especializada, Innovación Tecnológica y Economía Circular para así poder transformar pasivos ambientales en oportunidades de desarrollo._**
 
-◉ Este observatorio se articula en la academia, en la industria, en el sector público y en la comunidad, posicionando a nuestra región como referente en minería responsable y sustentable.
+◉ **_Este observatorio se articula en la academia, en la industria, en el sector público y en la comunidad, posicionando a nuestra región como referente en minería responsable y sustentable._**
