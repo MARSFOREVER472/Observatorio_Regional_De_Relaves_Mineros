@@ -4,4 +4,4 @@
 
 ### **_Iniciativa financiada por el Gobierno Regional de Antofagasta, con recursos del fondo regional para la productividad y el desarrollo FRDP 2024 código BIP 40067703-0_**
 
-## Acerca del Observatorio
+## **_Acerca del Observatorio_**
