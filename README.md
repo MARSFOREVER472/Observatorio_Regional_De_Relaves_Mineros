@@ -4,6 +4,8 @@
 
 ### **_Iniciativa financiada por el Gobierno Regional de Antofagasta, con recursos del fondo regional para la productividad y el desarrollo FRDP 2024 código BIP 40067703-0._**
 
+Presentación del Observatorio
+
 ## **_Acerca del Observatorio_**
 
 ◉ **_El Observatorio Regional de Relaves Mineros (ORRM) es una iniciativa liderada por el Departamento de Ingeniería Química y del Medio Ambiente de la Universidad Católica del Norte que tiene como propósito general fortalecer la gestión sostenible de los relaves mineros en la Región de Antofagasta._**
