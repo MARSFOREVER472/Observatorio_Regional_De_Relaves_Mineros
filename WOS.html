@@ -15,19 +15,36 @@
 
     <header class="header">
 
-        <div class="menu-container">
+        <nav class="navbar navbar-dark bg-dark">
+            <div class="container">
+                <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
+                    <div class="sidebar-brand-icon"></div>
+                        
+                    <div class="sidebar-brand-text mx-3">
 
-            <a href="#" class="logo">Logo</a>
-            <input type="checkbox" id="menu" />
-            <label for="menu">
+                        <img src="images/logo-removebg-preview.png" width="150px" margin-left="auto">
 
-                <img src="images/7216128.png" class="menu-icon" alt="menu">
+                    </div>
+                </a>
+                <button
+                    class="navbar-toggler"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#contenidoMain"
+                    aria-controls="contenidoMain"
+                    aria-expanded="false"
+                    aria-label="Mostrar/Ocultar Navegación"
+                >
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
-            </label>
+                <div class="collapse navbar-collapse" id="contenidoMain">
 
-            <nav class="navbar">
+                    <!-- PESTAÑAS -->
 
-                <ul>
+                    <ul class="navbar-nav ms-auto">
+
+                        <ul class="navbar-nav me-auto">
 
                     <li><a href="index.html">Inicio</a></li>
 
@@ -55,7 +72,7 @@
 
                     </li>
 
-                    <li><a href="investigación.html">Investigación</a></li>
+                    <li><a href="investigacion.html">Investigación</a></li>
 
                     <li class="nav-item dropdown">
                         
@@ -134,23 +151,15 @@
                 
                 </ul>
 
-            </nav>
+                    <form action="" class="d-flex">
 
-        </div>
+                        <input type="search" class="form-control me-2" placeholder="Buscar" aria-label="Buscar">
+                        <button class="btn btn-outline-light" type="submit">Buscar</button>
 
-        <div class="header-content container">
-
-            <div class="header-txt">
-
-                <h1>Observatorio Regional de Relaves Mineros</h1>
-
-                    <p>Este proyecto busca establecer un centro de excelencia para la gestión sostenible de relaves mineros en la Macrozona Norte de Chile, pues se alinea con el Nicho de Especialización NE1.1: Minería como motor de desarrollo económico para el desarrollo sostenible.</p>
-
-                    <p>También se alinea con la EMRA 2023-2050 en su OE2: Minería Sustentable, que dentro del corto plazo apunta a “Reducir la generación de residuos mineros y así poder facilitar su valoración.”</p>
-
+                    </form>
+                </div>
             </div>
-
-        </div>
+        </nav>
 
     </header>
 
