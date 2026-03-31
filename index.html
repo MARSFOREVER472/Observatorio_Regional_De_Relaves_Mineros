@@ -14,155 +14,38 @@
 
 <body class="bg-slate-50 text-slate-900">
 
-    <header class="header">
+    <!-- NAVEGACIÓN -->
 
-        <nav class="navbar navbar-dark bg-dark">
-            <div class="container">
-                <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
-                    <div class="sidebar-brand-icon"></div>
-                        
-                    <div class="sidebar-brand-text mx-3">
+    <nav id="navbar" class="fixed w-full z-50 transition-all duration-500 py-6 text-while bg-transparent">
 
-                        <img src="images/logo-removebg-preview.png" width="150px" margin-left="auto">
+        <div class="max-w-7xl mx-auto px-6 flex justify-between items-center">
 
-                    </div>
-                </a>
-                <button
-                    class="navbar-toggler"
-                    type="button"
-                    data-bs-toggle="collapse"
-                    data-bs-target="#contenidoMain"
-                    aria-controls="contenidoMain"
-                    aria-expanded="false"
-                    aria-label="Mostrar/Ocultar Navegación"
-                >
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+            <div class="flex items-center space-x-3">
 
-                <div class="collapse navbar-collapse" id="contenidoMain">
+                <div class="bg-amber-600 p-2 rounded-lg">
 
-                    <!-- PESTAÑAS -->
+                    <i data-lucide="database" class="text-while"></i>
 
-                    <ul class="navbar-nav ms-auto">
-
-                        <ul class="navbar-nav me-auto">
-
-                    <li><a href="index.html">Inicio</a></li>
-
-                    <li class="nav-item dropdown">
-                        
-                        <a 
-                            href="#" 
-                            class="nav-link dropdown-toggle"
-                            id="subMenuTransparencia"
-                            role="button"
-                            data-bs-toggle="dropdown"
-                            aria-expanded="false"
-                        >
-                            Quiénes Somos
-                        </a>
-
-                        <!-- Sub-elementos -->
-
-                        <ul class="dropdown-menu" aria-labelledby="subMenuTransparencia">
-
-                            <li><a href="Presentacion.html" class="dropdown-item">Presentación del Observatorio</a></li>
-                            <li><a href="equipo.html" class="dropdown-item">Equipo del Proyecto</a></li>
-
-                        </ul>
-
-                    </li>
-
-                    <li><a href="investigacion.html">Investigación</a></li>
-
-                    <li class="nav-item dropdown">
-                        
-                        <a 
-                            href="#" 
-                            class="nav-link dropdown-toggle"
-                            id="subMenuTransparencia"
-                            role="button"
-                            data-bs-toggle="dropdown"
-                            aria-expanded="false"
-                        >
-                            Proyectos
-                        </a>
-
-                        <!-- Sub-elementos -->
-
-                        <ul class="dropdown-menu" aria-labelledby="subMenuTransparencia">
-
-                            <li class="nav-item dropdown">
-                        
-                        <a 
-                            href="#" 
-                            class="nav-link dropdown-toggle"
-                            id="subMenuTransparencia"
-                            role="button"
-                            data-bs-toggle="dropdown"
-                            aria-expanded="false"
-                        >
-                            Servicios
-                        </a>
-
-                        <!-- Sub-elementos -->
-
-                        <ul class="dropdown-menu" aria-labelledby="subMenuTransparencia">
-
-                            <li><a href="Asociados.html" class="dropdown-item">Asociados</a></li>
-
-                        </ul>
-
-                    </li>
-
-                        </ul>
-
-                    </li>
-
-                    <li><a href="infraestructura.html">Infrestructura</a></li>
-
-                        <li class="nav-item dropdown">
-                        
-                        <a 
-                            href="#" 
-                            class="nav-link dropdown-toggle"
-                            id="subMenuTransparencia"
-                            role="button"
-                            data-bs-toggle="dropdown"
-                            aria-expanded="false"
-                        >
-                            Publicaciones
-                        </a>
-
-                        <!-- Sub-elementos -->
-
-                        <ul class="dropdown-menu" aria-labelledby="subMenuTransparencia">
-
-                            <li><a href="WOS.html" class="dropdown-item">Publicaciones WOS</a></li>
-                            <li><a href="libros.html" class="dropdown-item">Libros</a></li>
-                            <li><a href="fichasTecnicas.html" class="dropdown-item">Fichas Técnicas</a></li>
-                            <li><a href="materialDivulgativo.html" class="dropdown-item">Material Divulgativo</a></li>
-
-                        </ul>
-
-                    </li>
-
-                    <li><a href="noticias.html">Noticias</a></li>
-                    <li><a href="contacto.html">Contáctanos</a></li>
-                
-                </ul>
-
-                    <form action="" class="d-flex">
-
-                        <input type="search" class="form-control me-2" placeholder="Buscar" aria-label="Buscar">
-                        <button class="btn btn-outline-light" type="submit">Buscar</button>
-
-                    </form>
                 </div>
-            </div>
-        </nav>
 
-        </header>
+            </div>
+
+            <span class="text-2xl font-black tracking-tighter block leading-none">ORRM</span>
+            <span class="text-[10xl] uppercase font-bold tracking-widest text-amber-400">Antofagasta</span>
+
+            </div>
+
+        </div>
+
+        <div class="hidden md:flex space-x-8 text-sm font-bold uppercase tracking-wider">
+
+            <a href="index.html" class="hover:text-amber-500 transition-colors">Inicio</a>
+            <a href="Presentacion.html" class="hover:text-amber-500 transition-colors">Presentación</a>
+            <a href="investigacion.html" class="hover:text-amber-500 transition-colors">I + D</a>
+            <a href="equipo.html" class="hover:text-amber-500 transition-colors">Equipo</a>
+        </div>
+
+    </nav>
 
         <div class="bg-image" style="background-image: url('https://http2.mlstatic.com/D_NQ_NP_622697-MLB96642487899_102025-O.webp'); height: 90vh; background-size: cover">
 
