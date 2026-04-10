@@ -19,4 +19,10 @@ body
         background: #cbd5e1;
         border-radius: 10px;
     }
+
+    .glass
+    {
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+    }
 }
