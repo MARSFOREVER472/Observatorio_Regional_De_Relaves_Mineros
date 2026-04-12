@@ -2,7 +2,7 @@
 
 ## **_Innovación para la Economía Circular y la Sostenibilidad en la Región de Antofagasta (Versión 2)_**
 
-### **_Iniciativa financiada por el Gobierno Regional de Antofagasta, con recursos del fondo regional para la productividad y el desarrollo FRDP 2024 código BIP 40067703-0._**
+### **_Iniciativa financiada por el Gobierno Regional de Antofagasta, con recursos del Fondo Regional para la Productividad y el Desarrollo FRDP 2024 código BIP 40067703-0._**
 
 ## **_Presentación del Observatorio_**
 
