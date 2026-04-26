@@ -14,7 +14,7 @@
 
 ## **_Acerca del Observatorio_**
 
-◉ **_El Observatorio Regional de Relaves Mineros (O.R.R.M.) es una iniciativa liderada por el Departamento de Ingeniería Química y del Medio Ambiente de la Universidad Católica del Norte que tiene como propósito general fortalecer la gestión sostenible de los relaves mineros en la Región de Antofagasta._**
+◉ **_El Observatorio Regional de Relaves Mineros (O.R.R.M.) es una iniciativa liderada por el Departamento de Ingeniería Química y del Medio Ambiente (DIQMA) de la Universidad Católica del Norte que tiene como propósito general fortalecer la gestión sostenible de los relaves mineros en la Región de Antofagasta._**
 
 ◉ **_Esto complementa varios ejes temáticos tales como Investigación Aplicada, Formación Especializada, Innovación Tecnológica y Economía Circular para así poder transformar pasivos ambientales en oportunidades de desarrollo._**
 
