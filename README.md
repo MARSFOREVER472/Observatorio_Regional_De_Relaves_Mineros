@@ -4,7 +4,7 @@
 
 ### **_Iniciativa financiada por el Gobierno Regional de Antofagasta, con recursos del Fondo Regional para la Productividad y el Desarrollo FRDP 2024 código BIP 40067703-0._**
 
-## ¿Qué es ORRM?
+## _¿Qué es ORRM?_
 
 ## **_Presentación del Observatorio_**
 
