@@ -6,7 +6,7 @@
 
 ## **_¿Qué es ORRM?_**
 
-**_El ORRM es un observatorio de investigación aplicada en Relaves Mineros, dedicado a la generación de conocimiento científico y tecnológico para una gestión sostenible de estos residuos en territorios mineros, con un enfoque en las oportunidades de la economía circular y los desafíos ambientales, sociales e institucionales que enfrentan las comunidades de la Región de Antofagasta y el norte de Chile._**
+**_El ORRM es un observatorio de investigación aplicada en Relaves Mineros, dedicado a la generación de conocimiento científico y tecnológico para una gestión sostenible de estos residuos en territorios mineros, con un enfoque en las oportunidades de la economía circular y los desafíos ambientales, sociales e institucionales que enfrentan las comunidades de la Región de Antofagasta y el Norte de Chile._**
 
 ## **_Presentación del Observatorio_**
 
