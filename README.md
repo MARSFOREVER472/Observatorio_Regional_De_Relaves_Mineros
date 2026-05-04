@@ -4,6 +4,8 @@
 
 ### **_Iniciativa financiada por el Gobierno Regional de Antofagasta, con recursos del Fondo Regional para la Productividad y el Desarrollo FRDP 2024 código BIP 40067703-0._**
 
+¿Qué es ORRM?
+
 ## **_Presentación del Observatorio_**
 
 ◉ **_Este proyecto responde al creciente interés nacional por la revalorización de relaves, promoviendo su reprocesamiento y reutilización como parte de una estrategia que busca transformar residuos en recursos. A través del observatorio, se busca generar conocimiento técnico y territorial, articular actores públicos, privados y académicos, y fomentar soluciones innovadoras que contribuyan al desarrollo económico, social y ambiental de la Región de Antofagasta. En Chile, la investigación sobre relaves mineros ha seguido una tendencia similar a la observada a nivel internacional, con un marcado enfoque en aspectos técnicos como la caracterización fisicoquímica, la estabilidad estructural, y las tecnologías de remediación y estabilización. Recientemente, han cobrado relevancia estudios orientados a la valorización de estos desechos, destacándose su potencial para la producción de materiales constructivos y la recuperación de elementos valiosos mediante biotecnología. No obstante, estas aproximaciones técnicas a menudo pasan por alto las complejas interacciones socio-ecológicas que definen los territorios mineros._**
