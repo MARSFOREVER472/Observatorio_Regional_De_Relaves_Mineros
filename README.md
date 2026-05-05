@@ -1,6 +1,6 @@
 # **_Observatorio_Regional_De_Relaves_Mineros_**
 
-## **_Innovación para la Economía Circular y la Sostenibilidad en la Región de Antofagasta (Versión 2)_**
+## **_Innovación para la Economía Circular y la Sostenibilidad en la Región de Antofagasta (Versión N°2)_**
 
 ### **_Iniciativa financiada por el Gobierno Regional de Antofagasta, con recursos del Fondo Regional para la Productividad y el Desarrollo FRDP 2024 código BIP 40067703-0._**
 
