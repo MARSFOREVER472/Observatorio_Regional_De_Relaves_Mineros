@@ -1,8 +1,12 @@
 # **_Observatorio_Regional_De_Relaves_Mineros_**
 
-## **_Innovación para la Economía Circular y la Sostenibilidad en la Región de Antofagasta (Versión 2)_**
+## **_Innovación para la Economía Circular y la Sostenibilidad en la Región de Antofagasta (Versión N°2)_**
 
 ### **_Iniciativa financiada por el Gobierno Regional de Antofagasta, con recursos del Fondo Regional para la Productividad y el Desarrollo FRDP 2024 código BIP 40067703-0._**
+
+## **_¿Qué es ORRM?_**
+
+**_El ORRM es un Observatorio de investigación aplicada en Relaves Mineros, dedicado a la generación de conocimiento científico y tecnológico para una gestión sostenible de estos residuos en territorios mineros, con un grado de enfoque en las oportunidades de la economía circular y los desafíos ambientales, sociales e institucionales que enfrentan las comunidades de la Región de Antofagasta y el Norte de Chile._**
 
 ## **_Presentación del Observatorio_**
 
@@ -14,7 +18,7 @@
 
 ## **_Acerca del Observatorio_**
 
-◉ **_El Observatorio Regional de Relaves Mineros (ORRM) es una iniciativa liderada por el Departamento de Ingeniería Química y del Medio Ambiente de la Universidad Católica del Norte que tiene como propósito general fortalecer la gestión sostenible de los relaves mineros en la Región de Antofagasta._**
+◉ **_El Observatorio Regional de Relaves Mineros (O.R.R.M.) es una iniciativa liderada por el Departamento de Ingeniería Química y del Medio Ambiente (D.I.Q.M.A.) de la Universidad Católica del Norte que tiene como propósito general fortalecer la gestión sostenible de los relaves mineros en la Región de Antofagasta._**
 
 ◉ **_Esto complementa varios ejes temáticos tales como Investigación Aplicada, Formación Especializada, Innovación Tecnológica y Economía Circular para así poder transformar pasivos ambientales en oportunidades de desarrollo._**
 
